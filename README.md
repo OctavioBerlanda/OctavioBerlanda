@@ -11,6 +11,6 @@ En mi repositorio encontrarás:
 ## Contacto
 ¡Siéntete libre de contactarme a través de GitHub!
 
-![GIF de presentación](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF3MDhiNmpjbHpmcmYydWgxNmJjczF5cThrc2Y1MHgxN3JjcnI1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjAcxImn74uoDYVxFl/giphy.gif)
+![GIF de presentación](https://giphy.com/gifs/fcbarcelona-goat-messi-leo-TjAcxImn74uoDYVxFl)
 
 ¡Gracias por visitar mi perfil!
