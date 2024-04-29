@@ -11,6 +11,6 @@ En mi repositorio encontrarás:
 ## Contacto
 ¡Siéntete libre de contactarme a través de GitHub!
 
-![GIF de presentación](https://giphy.com/gifs/fcbarcelona-goat-messi-leo-TjAcxImn74uoDYVxFl)
+![GIF de presentación](https://github.com/OctavioBerlanda/OctavioBerlanda/blob/main/giphy.gif)
 
 ¡Gracias por visitar mi perfil!
