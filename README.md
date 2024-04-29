@@ -1,4 +1,4 @@
-# Presentación de Octavio Berlanda
+# Presentación
 
 ¡Hola! Soy Octavio Berlanda.
 
