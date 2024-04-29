@@ -11,6 +11,7 @@ En mi repositorio encontrarás:
 ## Contacto
 ¡Siéntete libre de contactarme a través de GitHub!
 
+¡Gracias por visitar mi perfil!
+
 ![GIF de presentación](https://github.com/OctavioBerlanda/OctavioBerlanda/blob/main/giphy.gif)
 
-¡Gracias por visitar mi perfil!
