@@ -13,6 +13,6 @@ En mi repositorio encontrarás:
 
 ¡Gracias por visitar mi perfil!
 
-![GIF de presentación](https://github.com/OctavioBerlanda/OctavioBerlanda/blob/main/giphy.gif)
+![GIF de presentación]((https://github.com/OctavioBerlanda/OctavioBerlanda/blob/43357331960502115a005efaac2f41d265cc2795/giphy.gif.gif))
 
 
